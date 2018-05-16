@@ -1,0 +1,8 @@
++------------------------------------------------------+
+|          JAVA COOKIE FACTORY OPERATION REPORT        |
++------------------------------------------------------+
+Start time: 2018/04/20 08:50:57
+Production line: 2
+Run time: 120ms
+Warehouse storage capacity: 3400
+factoryStorageCapacity: 280

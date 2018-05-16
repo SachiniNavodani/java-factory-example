@@ -1,0 +1,5 @@
+Total manufactured [539] BB 211,BC 55,CC 155,GC 118
+Total dispatched [668] BB 295,BC 85,CC 170,GC 118
+Invoice completed 6
+Total requirement 724
+Effective throughput 92%

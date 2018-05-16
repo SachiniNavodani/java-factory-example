@@ -1,0 +1,49 @@
++------------------------------------------------------+
+|          JAVA COOKIE FACTORY OPERATION REPORT        |
++------------------------------------------------------+
+Start time: 2018/04/20 08:50:57
+Production line: 2
+Run time: 120ms
+Warehouse storage capacity: 3400
+factoryStorageCapacity: 280
+
+Inventory Manager initiated... .
+
+Factory Manager Initiated... .
+
+Flour - 415.0kgs
+Butter - 120.0kgs
+Chocolate Chips - 50.0kgs
+Milk - 120.0kgs
+Suggar - 85.0kgs
+Ginger - 25.0kgs
+
+Invoice IX015 arrival: 5ms [CC 80, BC 45, GC 15]
+Completed: 
+Invoice IX018 arrival: 15ms [BB 120, CC 15]
+Completed: 
+Invoice IX021 arrival: 19ms [BB 60, CC 25, GC 40]
+Completed: 
+Invoice IX023 arrival: 25ms [BC 38, BC 18]
+Invoice IX025 arrival: 32ms [CC 35, GC 28]
+Completed: 
+Invoice IX030 arrival: 40ms [BC 40, BB 80]
+Completed: 
+Invoice IX035 arrival: 43ms [GC 35, CC 15, BB 35]
+Completed: 
+
+RM Arrival Sugar 9ms 25gs [SG 107.0]
+RM Arrival Flour 15ms 45gs [FL 439.75]
+RM Arrival Butter 18ms 22gs [BT 133.0]
+RM Arrival Sugar 26ms 18gs [SG 113.0]
+RM Arrival Milk, 31ms 26gs [MK 138.5]
+RM Arrival Flour 38ms 22gs [FL 448.25]
+RM Arrival Ginger 45ms 15gs [GN 27.25]
+RM Arrival Butter 48ms 26gs [BT 138.5]
+
+Total manufactured [539] BB 211,BC 55,CC 155,GC 118
+Total dispatched [668] BB 295,BC 85,CC 170,GC 118
+Invoice completed 6
+Total requirement 724
+Effective throughput 92%
+

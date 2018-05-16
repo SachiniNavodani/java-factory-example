@@ -1,0 +1,8 @@
+RM Arrival Sugar 9ms 25gs [SG 107.0]
+RM Arrival Flour 15ms 45gs [FL 439.75]
+RM Arrival Butter 18ms 22gs [BT 133.0]
+RM Arrival Sugar 26ms 18gs [SG 113.0]
+RM Arrival Milk, 31ms 26gs [MK 138.5]
+RM Arrival Flour 38ms 22gs [FL 448.25]
+RM Arrival Ginger 45ms 15gs [GN 27.25]
+RM Arrival Butter 48ms 26gs [BT 138.5]

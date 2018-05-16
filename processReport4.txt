@@ -1,0 +1,13 @@
+Invoice IX015 arrival: 5ms [CC 80, BC 45, GC 15]
+Completed: 
+Invoice IX018 arrival: 15ms [BB 120, CC 15]
+Completed: 
+Invoice IX021 arrival: 19ms [BB 60, CC 25, GC 40]
+Completed: 
+Invoice IX023 arrival: 25ms [BC 38, BC 18]
+Invoice IX025 arrival: 32ms [CC 35, GC 28]
+Completed: 
+Invoice IX030 arrival: 40ms [BC 40, BB 80]
+Completed: 
+Invoice IX035 arrival: 43ms [GC 35, CC 15, BB 35]
+Completed: 

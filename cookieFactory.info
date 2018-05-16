@@ -1,0 +1,24 @@
+#base data
+Name: Java Cookie Factory
+Production line: 2
+Warehouse storage capacity: 3400
+Factory storage capacity: 280
+Run time:120ms
+#recipe line
+BB [FL:60 BT:10 SG:20 MK:10 | 12]
+BC [FL:50 BT:20 SG:20 MK:10 | 15]
+CC [FL:45 BT:15 SG:20 CH:10 MK:10 | 21]
+GC [FL:45 BT:20 SG:20 GN:15 MK:10 | 20]
+#warehouse inventory
+FL 415
+BT 120
+CH 50
+MK 120
+SG 85
+GN 25
+#Merchandise inventory
+BB 84
+BC 30
+CC 15
+GN 25
+This is a line added in code.
